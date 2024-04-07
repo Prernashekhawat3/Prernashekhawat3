@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prernashekhawat3
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently learning Machine Learning and Deep Learning Workflow
-- 💞️ I’m looking to collaborate on projects related to Machine Learning and Data Science
+- 💞️ I’m looking to collaborate on projects related to Python Flask Machine Learning and Data Science
 - 📫 How to reach me 
 
 <!---
